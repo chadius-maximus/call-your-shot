@@ -44,7 +44,8 @@ calls and time read predicted -> actual; score is 100 for a perfect call
 ## Install
 
 ```
-hermes plugins install call-your-shot
+hermes plugins install chadius-maximus/call-your-shot   # from this repository
+hermes plugins install call-your-shot                   # by name, once listed in the plugin catalog
 hermes plugins enable call-your-shot
 ```
 
